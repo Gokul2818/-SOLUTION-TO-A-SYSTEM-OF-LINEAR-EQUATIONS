@@ -32,7 +32,7 @@ print(solution)
 ```
 
 ## Output:
-<img width="1310" height="265" alt="image" src="https://github.com/user-attachments/assets/cc940254-8641-4f33-bc1f-46e8c27485e4" />
+<img width="1311" height="268" alt="image" src="https://github.com/user-attachments/assets/a97d4a47-7758-4244-b571-709fb5d0f723" />
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
